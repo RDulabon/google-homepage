@@ -1,0 +1,52 @@
+main {
+  display: grid;
+}
+
+.search {
+ margin: auto; 
+}
+
+.logo {
+ margin: auto;
+}
+
+input {
+   width: 500px;
+   border-radius: 25px;
+}
+
+li {
+ display: inline;
+ font-family: Arial;
+}
+
+.RightNav {
+float: right;
+padding: 1px 5px 1px 5px;
+}
+
+.LeftNav {
+padding: 1px 5px 1px 5px; 
+}
+
+.footer {
+background: gainsboro;
+position: fixed;
+bottom: 0;
+width: 100%;
+padding: 5px;
+}
+
+.header {
+padding: 3px;
+}
+
+a {
+text-decoration: none;
+color: gray;
+}
+
+.Button {
+margin: auto;
+padding: 20px;
+}

@@ -6,11 +6,11 @@ From the Odin Project's <a href="http://www.theodinproject.com/courses/web-devel
 <ul>
     <li>HTML</li>
         <ul>
-            <li></li>
+            <li>Insert Image</li>
         </ul>
     <li>CSS</li>
         <ul>
-            <li></li>
+            <li>Center Image</li>
     </ul>
 </ul>
 
