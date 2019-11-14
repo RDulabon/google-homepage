@@ -1,5 +1,6 @@
 main {
   display: grid;
+  margin-top: 100px;
 }
 
 .search {
@@ -12,12 +13,15 @@ main {
 
 input {
    width: 500px;
+   height: 30px; 
    border-radius: 25px;
+   border-style: outset;
 }
 
 li {
  display: inline;
  font-family: Arial;
+ font-size: 12px;
 }
 
 .RightNav {
@@ -35,6 +39,7 @@ position: fixed;
 bottom: 0;
 width: 100%;
 padding: 5px;
+margin: 0;
 }
 
 .header {
@@ -46,7 +51,15 @@ text-decoration: none;
 color: gray;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 .Button {
 margin: auto;
 padding: 20px;
+}
+
+.Button:hover {
+  border: 1px;
 }
